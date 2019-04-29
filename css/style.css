@@ -1,0 +1,16 @@
+.bbox{
+	height:1000px;
+	width: 1000px;
+	margin: 0 auto;	
+
+}
+
+.box {
+	height: 304px;
+	width: 304px;
+	border-radius: 20px;
+	background-color: #ffa600;
+	display: inline-block;
+	margin:13px ;
+}
+
